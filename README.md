@@ -1,7 +1,7 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Desafio de Projeto DynamoDB
+Repositório criado para o desafio de projeto "Boas práticas com DynamoDB" da DIO
 
-### Serviço utilizado
+### Serviços utilizados
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
 
